@@ -1,25 +1,28 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/norm.jpg
+title: Smart Campus Energy Lab
+permalink: projects/scel
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2017-01-08
 labels:
   - Javascript
-  - Meteor
-  - MongoDB
+  - Vagrant
+  - XCTU
   - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Nginx
+  - Eagle
+  - PostgreSQL
+summary: Environmental data collection via weatherboxes for energy conservation.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/weatherbox.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+The Smart Campus Energy Lab researches weather/environmental data for weather analysis and prediction which will be used to help conserve campus-wide energy use.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+SCEL is currently deploying weatherboxes on the roof of Holmes Hall. Current weatherbox designs are based upon Arduino circuits with additional sensors and radios for data collection and transmission. Environmental data gathered by the weatherboxes are transmitted wirelessly to a central hub which parses the data and stores it in a postgres database. Intial data collection is ongoing and analysis will be tested once sufficient data is collected.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+The project is comprised of multiple subteams which work on hardware, firmware and software. I am a member of the software team whose primary responsibilities include the development of the firmware for the weatherboxes as well as the backend for the data management. I have contributed to the development of the firmware as well as developing a modular testing platform which allowed the software team to develop firmware independently from the hardware team workflows. I have also implemented a reverse proxy for the backend server which facilitates the implementation of an API for future modularity.
+
+More information about this project can be found on the [SCEL Project Website](http://scel-hawaii.org/) as well as the [SCEL Project Wiki](https://wiki.scel-hawaii.org/doku.php).
