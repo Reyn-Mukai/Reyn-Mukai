@@ -17,7 +17,7 @@ labels:
 summary: Environmental data collection via weatherboxes for energy conservation.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/weatherbox.png">
+<img src="../images/weatherbox.png" width="1000">
 
 The Smart Campus Energy Lab researches weather/environmental data for weather analysis and prediction which will be used to help conserve campus-wide energy use.
 
