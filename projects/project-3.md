@@ -15,7 +15,7 @@ labels:
 summary: An Arduino adaptation of a Sound Voltex Controller.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/inprog.jpg">
+<img class="ui medium right floated rounded image" src="../images/inprog.png">
 
 Sound Voltex/K-Shoot Mania is a rhythm game which originated in Japan. Motivated by the high cost of commercial gamepads, I set out to create a DIY version. For this particular revision, I decided to be liberal with the design and substitute the main buttons with 33mm buttons (original 60mm).
 
