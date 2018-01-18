@@ -1,23 +1,22 @@
-
 ---
 layout: project
 type: project
 image: images/uas.jpg
-title: Vertically Integrated Projects University of Hawaii Drone Technologies
+title: VIP UHDT
 permalink: projects/uhdt
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:
-  - Pixhawk
   - Arduino
   - C++
+  - Bash
   - Debian
+  - Pixhawk
   - RF
   - CAD
   - PCB
-  - Bash
   - Soldering
-summary: Developing a Unmanned Aerial System (UAS) for search and rescue applciations.
+summary: Deveolping an unmanned aerial system for search and rescue applications.
 ---
 
 <div class="ui small rounded images">
