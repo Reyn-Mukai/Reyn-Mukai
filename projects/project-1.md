@@ -1,16 +1,23 @@
+
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/uas.jpg
+title: Vertically Integrated Projects University of Hawaii Drone Technologies
+permalink: projects/uhdt
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:
-  - Robotics
+  - Pixhawk
   - Arduino
   - C++
-summary: Deveolping an unmanned aerial system for search and rescue applications.
+  - Debian
+  - RF
+  - CAD
+  - PCB
+  - Bash
+  - Soldering
+summary: Developing a Unmanned Aerial System (UAS) for search and rescue applciations.
 ---
 
 <div class="ui small rounded images">
