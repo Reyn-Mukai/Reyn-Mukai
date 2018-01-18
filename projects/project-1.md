@@ -1,26 +1,23 @@
 ---
 layout: project
 type: project
-image: images/uas.jpg
-title: Vertically Integrated Projects: University of Hawaii Drone Technologies
-permalink: projects/uhdt
+image: images/micromouse.jpg
+title: Micromouse
+permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:
-  - Pixhawk
+  - Robotics
   - Arduino
   - C++
-  - Debian
-  - RF
-  - CAD
-  - PCB
-  - Bash
-  - Soldering
-summary: Developing a Unmanned Aerial System (UAS) for search and rescue applciations.
+summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/Team-Photo.jpg">
+  <img class="ui image" src="../images/micromouse-robot.png">
+  <img class="ui image" src="../images/micromouse-robot-2.jpg">
+  <img class="ui image" src="../images/micromouse.jpg">
+  <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
 VIP UHDT is a program whose purpose is to develop unmanned aerial systems for search and rescue applications. VIP UHDT is a multidisciplinary program which includes computer engineering, electrical engineering, mechanical engineering and pre-engineering students. Every year, VIP UHDT participates in the AUVSI Seafarer competition hosted by the US Navy which simulates search and rescue scenarios. Primary tasks of the competition include autonomous flight, waypoint navigation, image capture and navigation, and obstacle avoidance. Tasks are to be completed within 20 minutes with an additional 10 minutes of post mission processing time.
