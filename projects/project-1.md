@@ -10,7 +10,7 @@ labels:
   - Robotics
   - Arduino
   - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+summary: Deveolping an unmanned aerial system for search and rescue applications.
 ---
 
 <div class="ui small rounded images">
