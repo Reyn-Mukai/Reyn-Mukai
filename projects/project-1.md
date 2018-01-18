@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Team-Photo.jpg
+image: images/uas.jpg
 title: Vertically Integrated Projects: University of Hawaii Drone Technologies
 permalink: projects/uhdt
 # All dates must be YYYY-MM-DD format!
@@ -31,7 +31,7 @@ This project was started in the fall of 2015. Since fall 2015, I have served as 
 
 Since 2015, VIP UHDT has participated in two AUVSI Seafarer competitions in 2016 and 2017 and placed 26th and 4th respectively.
 
-You can learn more at the [VIP UHDT Website](http://rip.eng.hawaii.edu/projects/university-of-hawaii-drone-technologies-2016-2017/).
+You can learn more at the [VIP UHDT Website](http://rip.eng.hawaii.edu/projects/uhdt-2017-2018/).
 
 
 
