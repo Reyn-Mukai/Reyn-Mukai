@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/sdvxcap.jpg
-title: Arduino SDVX/KSM Project
+title: Arduino SDVX Project
 permalink: projects/sdvx
 # All dates must be YYYY-MM-DD format!
 date: 2017-08-01
