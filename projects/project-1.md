@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/Team-Photo.jpg
 title: Vertically Integrated Projects: University of Hawaii Drone Technologies
 permalink: projects/uhdt
 # All dates must be YYYY-MM-DD format!
@@ -20,7 +20,7 @@ summary: Developing a Unmanned Aerial System (UAS) for search and rescue applcia
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/team-photo">
+  <img class="ui image" src="../images/Team-Photo.jpg">
 </div>
 
 VIP UHDT is a program whose purpose is to develop unmanned aerial systems for search and rescue applications. VIP UHDT is a multidisciplinary program which includes computer engineering, electrical engineering, mechanical engineering and pre-engineering students. Every year, VIP UHDT participates in the AUVSI Seafarer competition hosted by the US Navy which simulates search and rescue scenarios. Primary tasks of the competition include autonomous flight, waypoint navigation, image capture and navigation, and obstacle avoidance. Tasks are to be completed within 20 minutes with an additional 10 minutes of post mission processing time.
