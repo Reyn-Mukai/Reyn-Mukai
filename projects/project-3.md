@@ -5,7 +5,7 @@ image: images/sdvxcap.jpg
 title: Arduino SDVX/KSM Project
 permalink: projects/sdvx
 # All dates must be YYYY-MM-DD format!
-date: 2017/08/01
+date: 2017-08-01
 labels:
   - Arduino
   - GitHub
