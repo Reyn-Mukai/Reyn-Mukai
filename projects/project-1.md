@@ -19,7 +19,7 @@ labels:
 summary: Deveolping an unmanned aerial system for search and rescue applications.
 ---
 
-<img src="../images/Team-Photo.jpg" width="1000">
+<img src="../images/Team-Photo.jpg" width="600">
 
 VIP UHDT is a program whose purpose is to develop unmanned aerial systems for search and rescue applications. VIP UHDT is a multidisciplinary program which includes computer engineering, electrical engineering, mechanical engineering and pre-engineering students. Every year, VIP UHDT participates in the AUVSI Seafarer competition hosted by the US Navy which simulates search and rescue scenarios. Primary tasks of the competition include autonomous flight, waypoint navigation, image capture and navigation, and obstacle avoidance. Tasks are to be completed within 20 minutes with an additional 10 minutes of post mission processing time.
 
