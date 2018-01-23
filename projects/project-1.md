@@ -29,6 +29,8 @@ This project was started in the fall of 2015. Since fall 2015, I have served as 
 
 Since 2015, VIP UHDT has participated in two AUVSI Seafarer competitions in 2016 and 2017 and placed 26th and 4th respectively.
 
+The VIP UHDT project is special in the regard that it encompasses all aspects of the system, ranging from hardware and software, to mission planning. Due to the scale of the project, I have learned to implement system level design concepts as well as project management. I also learned the basics of radio frequency (RF) calculations which allowed the system and mission plan to be designed around the system's theoretical operational range. I was also able to reinforce my existing knowledge by applying my server management skills to the image transferring system as well as electrical knowledge to the design and assembly of a power distribution board.
+
 You can learn more at the [VIP UHDT Website](http://rip.eng.hawaii.edu/projects/uhdt-2017-2018/).
 
 
