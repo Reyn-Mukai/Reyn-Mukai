@@ -19,7 +19,7 @@ This is an interview question asked by a major tech company. It happened 2 weeks
 
 The above question displays some aspects of a smart question. The topic of this question clearly defines the question and additionally states the programming language used. This question however is an interview question and is in the gray area when it comes to an appropriate question. The responses to this question however are mostly positive and many different answers to the question were proposed. The question at the time of writing also had over 1900 upvotes.
 
-### Thread Topic: SSH public key authentication still asks for password
+#### Thread Topic: SSH public key authentication still asks for password
 I am using two servers running Debian 8, which I will call server1 and server2. Currently, I am attempting to connect from server1 to server2 using scp and want to do so without a password so that it can run automatically using cron. I have attempted to install the public key file from server1 in server2 using the following commands:
 ssh-keygen (blank passkey used)
 ssh-copy-id -i key.pub nonrootuser@server2 
