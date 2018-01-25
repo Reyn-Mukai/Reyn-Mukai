@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Do Smart Questoins Matter
+title: Do Smart Questions Matter
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-24
 labels:
