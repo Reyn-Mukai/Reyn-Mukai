@@ -20,4 +20,6 @@ Sound Voltex/K-Shoot Mania is a rhythm game which originated in Japan. Motivated
 
 The current software design is built for the open-source version of SDVX, K-Shoot mania. Further designs will include persistent setting storage and increased compatability with b***** tools. The SDVX application tools will also be attempted to be ported to Debian via wine.
 
+While this current project is ongoing, I was able to apply several skills which I have acquired over the years. For the initial frame, I utilized a 3D printer to print small scale prototype boxes. For the electronics, I had to solder components onto protoboard to test both hardware and software based debounce. Programming for the controller is still ongoing and will make use of 3rd party libraries.
+
 The source code for the firmware can be found [here](https://github.com/Reyn-Mukai/Bemani-SDVX).
