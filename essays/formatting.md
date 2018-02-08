@@ -9,7 +9,7 @@ labels:
   - Formatting
 ---
 
-<img class="ui small right floated spaced image" src="../images/eslint.png">
+<img class="ui medium right floated spaced image" src="../images/eslint.png">
 
 It is often said that no one can truly know everything about a subject. This notion is particularly true with programming, which has a remarkably short knowledge half-life. Programming and software can be implemented in innumerable ways and problems which seem insurmountable can be overcome from a different perspective. Information on the web can offer this different perspective, however getting that perspective is not always easy. Asking questions on forums is the ideal way to solve certain problems and asking smart questions is one of the best ways to receive advice. Having a clear understanding of what differentiates a smart question from a generic question often means the difference between receiving an answer and being left empty-handed. Using StackOverflow as a basis, two questions will be examined and reviewed.
 
