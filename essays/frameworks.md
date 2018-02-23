@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-title: 
+title: From the Ground Up
 # All dates must be YYYY-MM-DD format!
 date: 2018-02-22
-labels: From the Ground Up
+labels: 
   - Programming Frameworks
   - Semantic UI
 ---
