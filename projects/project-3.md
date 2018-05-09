@@ -14,7 +14,7 @@ labels:
   - WINE
 summary: An Arduino adaptation of a Sound Voltex Controller.
 ---
-<img src="../images/inprog.jpg" width="600">
+<img src="../images/sdvxnew.jpg" width="600">
 
 Sound Voltex/K-Shoot Mania is a rhythm game which originated in Japan. Motivated by the high cost of commercial gamepads, I set out to create a DIY version. For this design, several design choices were made at the outset which were to make the controller smaller than a typical commercial controller and to use an Arduino as a base. To achieve the smaller size, 33mm square buttons were used instead of 60mm buttons to reduce the overall footprint. An Atmega32u4 was selected as the main microcontroller due to the integrated USB interface which allowed the microcontroller to be recognized as a HID. This also reduced circuit complexity as using an external interface would require two separate firmwares and a in circuit communication link which could lead to reliability problems and/or latency issues.
 
