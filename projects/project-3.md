@@ -22,4 +22,4 @@ The current software design is built for the open-source version of SDVX, K-Shoo
 
 While this current project is ongoing, I was able to apply several skills which I have acquired over the years. For the initial frame, I utilized a 3D printer to print small scale prototype boxes. For the electronics, I had to solder components onto protoboard to test both hardware and software based debounce. Programming for the controller is still ongoing and makes use of 3rd party libraries to accomplish USB communication with the host computer.
 
-The source code for the firmware can be found [here](https://github.com/Reyn-Mukai/Bemani-SDVX).
+The source code for the firmware can be found [here](https://github.com/Reyn-Mukai/SDVX-DIY/) and the tutorial can be found [here](https://sdvx-diy.github.io/).

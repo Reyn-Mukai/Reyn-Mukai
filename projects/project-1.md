@@ -27,11 +27,8 @@ VIP UHDT's UAS consists of a dual engined, fixed wing drone with a payload capac
 
 This project was started in the fall of 2015. Since fall 2015, I have served as the electronics and communications subsystem lead. This subsystem is in charge of the ground station, electronics payload of the drone, radio communications and software facilitating image transfer. I developed majority of the electronics payload on the drone. This includes the flight/navigation systems, safety pilot video feed and image capture/transfer systems. I also calculated the operational range of the UAS based upon parts specifications and Friis equations. I have also done limited development of the image transferring software which included encryption and file transfer protocols.
 
-Since 2015, VIP UHDT has participated in two AUVSI Seafarer competitions in 2016 and 2017 and placed 26th and 4th respectively.
+Since 2015, VIP UHDT has participated in two AUVSI Seafarer competitions in 2016 and 2017 and placed 26th and 6th respectively.
 
 The VIP UHDT project is special in the regard that it encompasses all aspects of the system, ranging from hardware and software, to mission planning. Due to the scale of the project, I have learned to implement system level design concepts as well as project management. I also learned the basics of radio frequency (RF) calculations which allowed the system and mission plan to be designed around the system's theoretical operational range. I was also able to reinforce my existing knowledge by applying my server management skills to the image transferring system as well as electrical knowledge to the design and assembly of a power distribution board.
 
-You can learn more at the [VIP UHDT Website](http://rip.eng.hawaii.edu/projects/uhdt-2017-2018/).
-
-
-
+You can learn more at the [VIP UHDT Website](http://rip.eng.hawaii.edu/projects/uhdt-2017-2018/) or their [WIki Page](https://wiki.harukai.com/).
