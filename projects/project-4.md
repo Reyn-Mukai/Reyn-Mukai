@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/manoa.png
 title: Rad Club List
-permalink: projects/sdvx
+permalink: projects/rcl
 # All dates must be YYYY-MM-DD format!
 date: 2017-08-05
 labels:
